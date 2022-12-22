@@ -4,17 +4,17 @@ This is a minimal NVim configuration for a daily use.
 
 ## Keybindings
 
-Here are some keybindings that are used in this config :
-`<C- >` (control space) : opens a beautiful floating window with the error/warning on the current line
-`<C-n` (control n) : toggles NerdTree (file explorer on left side)
-`<leader>v` (space v) : equivalent to `:vsplit`
-`<leader>s` (space s) : equivalent to `:split`
-`<leader>m` (space m) : for any make-compilated language (C, C++...), run Makefile and opens program
-`<leader><leader>` (double space) : no highlight for search
-`<leader>ww` (space double w) : force save
-`<leader>qq` (space double q) : force quit
-`<leader>wq` (space w q) : equivalent to `:wq`
-
+Here are some keybindings that are used in this config :  
+`<C- >` (control space) : opens a beautiful floating window with the error/warning on the current line  
+`<C-n` (control n) : toggles NerdTree (file explorer on left side)  
+`<leader>v` (space v) : equivalent to `:vsplit`  
+`<leader>s` (space s) : equivalent to `:split`  
+`<leader>m` (space m) : for any make-compilated language (C, C++...), run Makefile and opens program  
+`<leader><leader>` (double space) : no highlight for search  
+`<leader>ww` (space double w) : force save  
+`<leader>qq` (space double q) : force quit  
+`<leader>wq` (space w q) : equivalent to `:wq`  
+  
 ## Features
 
 The lualine was modified to get a beautiful and useful line, without denaturing the vim look and feel.
